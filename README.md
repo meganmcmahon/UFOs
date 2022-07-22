@@ -1,21 +1,16 @@
 # UFOs
 
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple paragraphs. (2 pt)
-Each paragraph has a heading. (2 pt)
-There are subheadings to break up text. (2 pt)
-Images are formatted and displayed where appropriate. (2 pt)
-Analysis (12 points)
-The written analysis has the following:
-
 ## Overview of the analysis:
 
-The purpose is well defined (2 pt)
+The purpose of this project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. After completion of this project, users will be able to filter the sightings by date, city, state, country, and shape.
 
 ## Results:
 
-There is a description of how to perform a search, with images. (4 pt)
+When you navigate to the UFO page, there will be a table that ccontains all of the UFO  sighting data. You are able to filter this data to find exactly what you are looking for! 
+
+Using the below example, the table is filtered by country, state, and shape.
+
+![Screen Shot 2022-07-22 at 8 02 25 AM](https://user-images.githubusercontent.com/103215686/180456131-5a8c8a4c-cc64-46f7-b0f6-84000b865940.png)
 
 ## Summary:
 
