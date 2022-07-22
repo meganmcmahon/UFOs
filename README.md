@@ -14,5 +14,7 @@ Using the below example, the table is filtered by country, state, and shape.
 
 ## Summary:
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+This webpage is a great way to find specific data on UFO sightings. However, one drawback is that people may want to search comments for something specific, other than shape or location.
+To further develop this page, we could add pictures and add a keyword search. 
+
+
